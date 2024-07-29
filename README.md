@@ -4,6 +4,9 @@ This repository contains homePage-firm that were developed to help developers le
 # Project
 <a href="https://p1skyy4.netlify.app/">homePage-firm</a>
 
+![p1](https://github.com/user-attachments/assets/20d54009-68a3-40e5-bb22-1287edc7fa2b)
+
+
 # Installation
 To use these projects, simply clone or download the repository to your local machine:
 <p>git clone https://github.com/skyonly4code/simple-styledHomepage</p>
